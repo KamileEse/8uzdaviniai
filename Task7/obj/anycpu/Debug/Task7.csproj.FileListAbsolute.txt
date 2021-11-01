@@ -1,0 +1,5 @@
+/Users/kamileeselinaite/pirmas/Task7/obj/anycpu/Debug/Task7.csproj.CoreCompileInputs.cache
+/Users/kamileeselinaite/pirmas/Task7/bin/Debug/Task7.exe
+/Users/kamileeselinaite/pirmas/Task7/bin/Debug/Task7.pdb
+/Users/kamileeselinaite/pirmas/Task7/obj/anycpu/Debug/Task7.exe
+/Users/kamileeselinaite/pirmas/Task7/obj/anycpu/Debug/Task7.pdb
