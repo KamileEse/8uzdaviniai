@@ -1,0 +1,12 @@
+/Users/kamileeselinaite/Projects/Pamoka13/Task1/bin/Debug/Task1.exe
+/Users/kamileeselinaite/Projects/Pamoka13/Task1/bin/Debug/Task1.pdb
+/Users/kamileeselinaite/Projects/Pamoka13/Task1/obj/Debug/Task1.csproj.AssemblyReference.cache
+/Users/kamileeselinaite/Projects/Pamoka13/Task1/obj/Debug/Task1.csproj.CoreCompileInputs.cache
+/Users/kamileeselinaite/Projects/Pamoka13/Task1/obj/Debug/Task1.exe
+/Users/kamileeselinaite/Projects/Pamoka13/Task1/obj/Debug/Task1.pdb
+/Users/kamileeselinaite/pirmas/Task1/bin/Debug/Task1.exe
+/Users/kamileeselinaite/pirmas/Task1/bin/Debug/Task1.pdb
+/Users/kamileeselinaite/pirmas/Task1/obj/Debug/Task1.csproj.AssemblyReference.cache
+/Users/kamileeselinaite/pirmas/Task1/obj/Debug/Task1.csproj.CoreCompileInputs.cache
+/Users/kamileeselinaite/pirmas/Task1/obj/Debug/Task1.exe
+/Users/kamileeselinaite/pirmas/Task1/obj/Debug/Task1.pdb
