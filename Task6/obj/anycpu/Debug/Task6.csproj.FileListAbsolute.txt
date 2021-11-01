@@ -1,0 +1,6 @@
+/Users/kamileeselinaite/pirmas/Task6/bin/Debug/Task6.exe
+/Users/kamileeselinaite/pirmas/Task6/bin/Debug/Task6.pdb
+/Users/kamileeselinaite/pirmas/Task6/obj/anycpu/Debug/Task6.csproj.AssemblyReference.cache
+/Users/kamileeselinaite/pirmas/Task6/obj/anycpu/Debug/Task6.csproj.CoreCompileInputs.cache
+/Users/kamileeselinaite/pirmas/Task6/obj/anycpu/Debug/Task6.exe
+/Users/kamileeselinaite/pirmas/Task6/obj/anycpu/Debug/Task6.pdb
